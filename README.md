@@ -24,7 +24,7 @@ Bu proje, Neo4j Movie Database üzerinde film araması yapan, detaylarını list
     pip install -r requirements.txt
     ```
    
-##Veritabanı Bağlantısı
+## 📊 Veritabanı Bağlantısı
 
 Kodunuzdaki bağlantı ayarlarını (URI, Kullanıcı Adı, Şifre) kendi Neo4j instance'ınıza göre güncelleyin.
    
@@ -38,5 +38,6 @@ python main.py
 
 
 !!Dikkat main.py'de bulunan veri tabanına bağlama kısmında kendi veri tabanı şifrenizi giriniz!!
+
 
 
