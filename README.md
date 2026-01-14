@@ -15,13 +15,14 @@ Bu proje, Neo4j Movie Database üzerinde film araması yapan, detaylarını list
    ```bash
    pip install -r requirements.txt
 
-🧪 Testleri Çalıştırma
+## 🧪 Testleri Çalıştırma
 
 python -m unittest test_project.py
 
-📂 Kullanım
+## 📂 Kullanım
 
 python main.py
 
 
 !!Dikkat main.py'de bulunan veri tabanına bağlama kısmında kendi veri tabanı şifrenizi giriniz!!
+
